@@ -19,5 +19,15 @@ Here are some ideas to get you started:
 
 <div align="center"> <img src="https://metrics.lecoq.io/2b-creator?template=classic&config.timezone=Asia%2FShanghai"> </div>
 
-## My Status:
-<div align="center"> <img height="137px" src="https://github-readme-stats.vercel.app/api?username=2b-creator&hide_title=true&hide_border=true&show_icons=trueline_height=21&text_color=000&icon_color=000&bg_color=0,ea6161,ffc64d,fffc4d,52fa5a&theme=graywhite" /> </div>
+- 🔭 I’m currently working on C#
+- 🌱 I’m currently learning C# and Python
+<!-- - 💬 Ask me about --> 
+- 😄 Pronouns: 2b
+
+I am a boy, an autistic young man who can do a little bit of anything. I update as I see fit, whenever I think of it. If you were to put some label on me, I think the word "erbia(2b)" is actually quite suitable.
+
+However, I consider myself a "group" young man, and a technical nerd who prefers to help others. But the prerequisite for helping others is that the other party has a good attitude, clear logs and detailed answers.
+
+so
+
+> Do Touhou（東方） people dream of Gensokyo in their dreams?
