@@ -18,7 +18,7 @@ Here are some ideas to get you started:
 ## This is me:
 
 - 🔭 I’m currently working on C#
-- 
+
 - 🌱 I’m currently learning C# and Python
 <!-- - 💬 Ask me about --> 
 - 😄 Pronouns: 2b
