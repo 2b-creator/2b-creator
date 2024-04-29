@@ -17,9 +17,8 @@ Here are some ideas to get you started:
 -->
 ## This is me:
 
-<div align="center"> <img src="https://metrics.lecoq.io/2b-creator?template=classic&config.timezone=Asia%2FShanghai"> </div>
-
 - 🔭 I’m currently working on C#
+- 
 - 🌱 I’m currently learning C# and Python
 <!-- - 💬 Ask me about --> 
 - 😄 Pronouns: 2b
